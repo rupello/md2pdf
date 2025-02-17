@@ -1,4 +1,5 @@
 # Usage
 ```
-python3 md2pdf.py <infile>
+# install just and uv first
+just convert <markdown file>
 ```
